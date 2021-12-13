@@ -12,6 +12,7 @@ public class Git {
         System.out.println("Hello GIt4!");
         System.out.println("master test");
         System.out.println("new-fix test");
+        System.out.println("push test");
         Integer[] arr={1,5,3,2};
         Arrays.sort(arr, (o1, o2) -> Integer.compare(o1,o2)); // lambda 表达式
     }
